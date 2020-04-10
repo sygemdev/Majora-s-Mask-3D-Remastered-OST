@@ -12,9 +12,9 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 ## Download
 * [Release 1.0](https://drive.google.com/file/d/1VSKnkWkjp5AeVu32Uo0NifZke4WIUkoh/view?usp=sharing)
 
-* HOW TO INSTALL* 
+## How To Install
 
-Citra Canary:
+#### Citra Canary:
 * Download the ZIP folder
 * Extract the ZIP folder
 * Copy the ***RomFS*** folder to "C:/Users/[your username]/AppData/Roaming/Citra/load/mods/[Game ID]/"
@@ -24,11 +24,11 @@ Game ID values:
 * USA = 0004000000125***5***00
 * EUR = 0004000000125***6***00
 
-Citra Nightly:
+#### Citra Nightly:
 * Build your own ROM with the music files replaced with the new ones
 * Google this if you need help
 
-3DS:
+#### 3DS:
 * Tutorial Pending
 
 ## Changelog
@@ -44,7 +44,7 @@ V1.0
 * House
 * Game Over
 * Fairy Fountain
-* Guru* Guru's Song
+* Guru-Guru's Song
 * Astral Observatory
 * Milk Bar (Mono)
 * Milk Bar (Stereo)
@@ -72,7 +72,7 @@ V1.0
 * House
 * Game Over
 * Fairy Fountain
-* Guru* Guru's Song
+* Guru-Guru's Song
 * Astral Observatory
 * Milk Bar (Mono)
 * Milk Bar (Stereo)
