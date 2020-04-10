@@ -4,7 +4,8 @@
 This is a remastered soundtrack for Majora's Mask 3D that is supposed to give the OST a "Wind Waker HD treatment," where many of the samples, mixing, and effects have been revived. I used Foobar2000, FL Studio, Looping Audio Converter, and multiple soundfonts and plugins.
 
 ##Links
-* [jambolicious](https://discord.gg/msKdhcP)
+* Discord - [jambolicious](https://discord.gg/msKdhcP)
+* YouTube - [StarBender](https://www.youtube.com/channel/UCTa6CCwKiLuQVPoBy1q1z5Q)
 
 If you have any questions or concerns, I will gladly help out anyone in the MM3D REMASTER OST section on my Discord server linked above. If by chance I see a comment saying "Sounds awful i hate it," for example, I will happily ignore it; however, if you have genuine feedback, I will absolutely pay attention.
 
@@ -29,6 +30,64 @@ Citra Nightly:
 
 3DS:
 -Tutorial Pending
+
+##Changelog
+
+V1.0
+-Termina Field
+-Clock Town Day 1
+-Clock Town Day 2
+-Clock Town Day 3
+-File Select
+-Enemy Battle
+-Opening Cutscene
+-House
+-Game Over
+-Fairy Fountain
+-Guru-Guru's Song
+-Astral Observatory
+-Milk Bar (Mono)
+-Milk Bar (Stereo)
+-Kamaro's Dance
+-Opening Cutscene (Loop)
+-Title Theme
+-Daytime Intro
+-Cavern
+-Majora Chase
+-Majora's Theme
+-Clock Tower
+-Mask Salesman's Theme
+-Swordsman's School
+-Mayor's Meeting
+-Shop
+
+##Song List
+-Termina Field
+-Clock Town Day 1
+-Clock Town Day 2
+-Clock Town Day 3
+-File Select
+-Enemy Battle
+-Opening Cutscene
+-House
+-Game Over
+-Fairy Fountain
+-Guru-Guru's Song
+-Astral Observatory
+-Milk Bar (Mono)
+-Milk Bar (Stereo)
+-Kamaro's Dance
+-Opening Cutscene (Loop)
+-Title Theme
+-Daytime Intro
+-Cavern
+-Majora Chase
+-Majora's Theme
+-Clock Tower
+-Mask Salesman's Theme
+-Swordsman's School
+-Mayor's Meeting
+-Shop
 
 ##Other
 I know this repo is a bit lackluster for the moment, but over time I will continue to add new information about the OST... stay tuned on my Discord server for updates!
