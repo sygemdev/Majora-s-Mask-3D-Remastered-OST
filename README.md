@@ -29,6 +29,8 @@ Game ID values:
 #### 3DS:
 * Tutorial Pending
 
+Note: Shop music and Milk Bar music both crash real 3DS hardware. A fix will be coming soon.
+
 ## Changelog
 
 V1.0
