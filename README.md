@@ -14,7 +14,7 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 ## How To Install
 
-#### Citra Canary:
+#### Citra:
 * Download the ZIP folder
 * Extract the ZIP folder
 * Copy the ***RomFS*** folder to "C:/Users/[your username]/AppData/Roaming/Citra/load/mods/[Game ID]/"
@@ -23,10 +23,6 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 Game ID values:
 * USA = 0004000000125***5***00
 * EUR = 0004000000125***6***00
-
-#### Citra Nightly:
-* Build your own ROM with the music files replaced with the new ones
-* Google this if you need help
 
 #### 3DS:
 * Tutorial Pending
