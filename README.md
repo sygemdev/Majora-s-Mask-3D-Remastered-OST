@@ -10,6 +10,7 @@ This is a remastered soundtrack for Majora's Mask 3D that is supposed to give th
 If you have any questions or concerns, I will gladly help out anyone in the MM3D REMASTER OST section on my Discord server linked above. If by chance I see a comment saying "Sounds awful i hate it," for example, I will happily ignore it; however, if you have genuine feedback, I will absolutely pay attention.
 
 ## Download
+* [Release 1.1](https://drive.google.com/file/d/11FN1cgMo2NtEYv0rVD5z8QHgpLUj0O26/view?usp=sharing)
 * [Release 1.0](https://drive.google.com/file/d/1VSKnkWkjp5AeVu32Uo0NifZke4WIUkoh/view?usp=sharing)
 
 ## How To Install
@@ -33,61 +34,8 @@ Note: Shop music and Milk Bar music both crash real 3DS hardware. A fix will be 
 
 ## Changelog
 
-V1.0
-* Termina Field
-* Clock Town Day 1
-* Clock Town Day 2
-* Clock Town Day 3
-* File Select
-* Enemy Battle
-* Opening Cutscene
-* House
-* Game Over
-* Fairy Fountain
-* Guru-Guru's Song
-* Astral Observatory
-* Milk Bar (Mono)
-* Milk Bar (Stereo)
-* Kamaro's Dance
-* Opening Cutscene (Loop)
-* Title Theme
-* Daytime Intro
-* Cavern
-* Majora Chase
-* Majora's Theme
-* Clock Tower
-* Mask Salesman's Theme
-* Swordsman's School
-* Mayor's Meeting
-* Shop
-
-## Song List
-* Termina Field
-* Clock Town Day 1
-* Clock Town Day 2
-* Clock Town Day 3
-* File Select
-* Enemy Battle
-* Opening Cutscene
-* House
-* Game Over
-* Fairy Fountain
-* Guru-Guru's Song
-* Astral Observatory
-* Milk Bar (Mono)
-* Milk Bar (Stereo)
-* Kamaro's Dance
-* Opening Cutscene (Loop)
-* Title Theme
-* Daytime Intro
-* Cavern
-* Majora Chase
-* Majora's Theme
-* Clock Tower
-* Mask Salesman's Theme
-* Swordsman's School
-* Mayor's Meeting
-* Shop
+V1.1
+* Removed the Shop and Milk Bar (mono) tracks until I can fix the 3DS hardware crash. (If you play on Citra and want to keep these songs, download release 1.0.) This is a temporary fix; I will be looking into a permanant fix when I figure out why this occurs.
 
 ## Other
 I know this repo is a bit lackluster for the moment, but over time I will continue to add new information about the OST... stay tuned on my Discord server for updates!
