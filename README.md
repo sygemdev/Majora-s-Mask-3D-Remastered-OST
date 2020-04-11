@@ -30,7 +30,7 @@ Game ID values:
 #### 3DS:
 * Tutorial Pending
 
-Note: Shop music and Milk Bar music both crash real 3DS hardware. A fix will be coming soon.
+Note: Shop music and Milk Bar music both crash real 3DS hardware. A fix will be coming soon. (As of 1.1, the mod is compatible with 3DS hardware via Luma LayeredFS and custom ROMs.
 
 ## Changelog
 
