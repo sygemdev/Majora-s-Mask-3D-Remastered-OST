@@ -37,7 +37,34 @@ Note: Shop music and Milk Bar music both crash real 3DS hardware. A fix will be 
 V1.1
 * Removed the Shop and Milk Bar (mono) tracks until I can fix the 3DS hardware crash. (If you play on Citra and want to keep these songs, download release 1.0.) This is a temporary fix; I will be looking into a permanant fix when I figure out why this occurs.
 
-## Other
+## Song List
+
+* Termina Field
+* Clock Town Day 1
+* Clock Town Day 2
+* Clock Town Day 3
+* File Select
+* Enemy Battle
+* Opening Cutscene
+* House
+* Game Over
+* Fairy Fountain
+* Guru-Guru's Song
+* Astral Observatory
+* Milk Bar (Stereo, after 6PM in-game)
+* Kamaro's Dance
+* Opening Cutscene (Loop)
+* Title Theme
+* Daytime Intro
+* Cavern
+* Majora Chase
+* Majora's Theme
+* Clock Tower
+* Mask Salesman's Theme
+* Swordsman's School
+* Mayor's Meeting
+
+## Other Info
 I know this repo is a bit lackluster for the moment, but over time I will continue to add new information about the OST... stay tuned on my Discord server for updates!
 
 Also, please note that I tested these songs with the EUROPEAN version of MM3D, so if something happens to not work correctly on the USA version, PLEASE LET ME KNOW!
