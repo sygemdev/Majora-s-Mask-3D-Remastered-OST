@@ -48,15 +48,16 @@ Note: Shop music and Milk Bar music both crash real 3DS hardware. As of 1.1, the
 
 ## Changelog
 
-V1.2
+### V1.2
 * Fixed volume for all of the songs, they should be more aligned with the volume of the original tracks
-* Added Opening Chest
-* Added Item Get
+#### Songs added:
+* Opening Chest
+* Item Get
 
-V1.1
+### V1.1
 * Removed the Shop and Milk Bar (mono) tracks until I can fix the 3DS hardware crash. (If you play on Citra and want to keep these songs, download release 1.0.) This is a temporary fix; I will be looking into a permanent fix when I figure out why this occurs.
 
-V1.0
+### V1.0
 * Initial Release
 
 ## Song List
