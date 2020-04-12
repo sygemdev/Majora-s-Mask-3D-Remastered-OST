@@ -19,7 +19,7 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 ## How To Install
 
-#### Citra:
+### Citra:
 * Download the ZIP folder
 * Extract the ZIP folder
 * Copy the ***RomFS*** folder to "C:/Users/[your username]/AppData/Roaming/Citra/load/mods/[Game ID]/"
@@ -27,11 +27,11 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 Note: If you changed the folder in which Citra mods go, put the RomFS folder there, otherwise Citra will have no idea you installed it. The steps listed above are assuming you are using the default folder / drive.
 
-Game ID values:
+#### Game ID values:
 * USA = 0004000000125***5***00
 * EUR = 0004000000125***6***00
 
-#### 3DS:
+### 3DS:
 Luma LayeredFS (Safe):
 * Make sure your 3DS is compatible with CFW and has Luma installed
 * Open your SD or microSD card on your computer
