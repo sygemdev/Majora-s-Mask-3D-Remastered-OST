@@ -13,6 +13,7 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 ## Download
 
+* [Release 1.2](https://drive.google.com/file/d/1TyG2rwfhbEMerrUhgMCByNec1LrwfeLM/view?usp=sharing)
 * [Release 1.1](https://drive.google.com/file/d/11FN1cgMo2NtEYv0rVD5z8QHgpLUj0O26/view?usp=sharing)
 * [Release 1.0](https://drive.google.com/file/d/1VSKnkWkjp5AeVu32Uo0NifZke4WIUkoh/view?usp=sharing)
 
@@ -46,6 +47,11 @@ Luma LayeredFS (Safe):
 Note: Shop music and Milk Bar music both crash real 3DS hardware. As of 1.1, the mod is compatible with 3DS hardware via Luma LayeredFS and custom ROMs.
 
 ## Changelog
+
+V1.2
+* Fixed volume for all of the songs, they should be more aligned with the volume of the original tracks
+* Added Opening Chest
+* Added Item Get
 
 V1.1
 * Removed the Shop and Milk Bar (mono) tracks until I can fix the 3DS hardware crash. (If you play on Citra and want to keep these songs, download release 1.0.) This is a temporary fix; I will be looking into a permanent fix when I figure out why this occurs.
