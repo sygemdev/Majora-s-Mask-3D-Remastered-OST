@@ -86,6 +86,8 @@ Note: Shop music and Milk Bar music both crash real 3DS hardware. As of 1.1, the
 * Mask Salesman's Theme
 * Swordsman's School
 * Mayor's Meeting
+* Opening Chest
+* Item Get
 
 ## Other Info
 
