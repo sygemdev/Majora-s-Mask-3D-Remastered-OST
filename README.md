@@ -34,7 +34,7 @@ Note: If you changed the folder in which Citra mods go, put the RomFS folder the
 
 ### 3DS:
 Luma LayeredFS (Safe):
-* Make sure your 3DS is compatible with CFW and has Luma installed
+* Make sure your 3DS is compatible with CFW and has Luma installed (A tutorial is provided at https://3ds.hacks.guide/)
 * Open your SD or microSD card on your computer
 * Create a folder in the "/luma/" folder called "titles"
 * Create a folder inside of "/luma/titles/" with the proper game ID for your copy of MM3D (see above...)
