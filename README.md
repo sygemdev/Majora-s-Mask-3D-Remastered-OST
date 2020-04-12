@@ -20,10 +20,11 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 ## How To Install
 
 ### Citra:
-* Download the ZIP folder
-* Extract the ZIP folder
+* Make sure you have the latest version of Citra (Nightly or Canary)
+* Download the ZIP file containing the soundtrack
+* Extract the ZIP file
 * Copy the ***RomFS*** folder to "C:/Users/[your username]/AppData/Roaming/Citra/load/mods/[Game ID]/"
-* (If you want, you can just type in %appdata% in the search bar to jump to the "/Roaming/" folder)
+* (If you want, you can just type in %appdata% in the Windows File Explorer address bar to jump to the "/Roaming/" folder)
 
 Note: If you changed the folder in which Citra mods go, put the RomFS folder there, otherwise Citra will have no idea you installed it. The steps listed above are assuming you are using the default folder / drive.
 
