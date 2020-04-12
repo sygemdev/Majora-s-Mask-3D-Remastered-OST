@@ -37,8 +37,10 @@ Luma LayeredFS (Safe):
 * Open your SD or microSD card on your computer
 * Create a folder in the "/luma/" folder called "titles"
 * Create a folder inside of "/luma/titles/" with the proper game ID for your copy of MM3D (see above...)
-* Extract the downloaded ZIP file
-* Copy the ***RomFS*** folder to "/luma/titles/[Game ID]/"
+* Download the ZIP file containing the soundtrack
+* Extract the ZIP file
+* Copy the ***RomFS*** folder to "/luma/titles/[Game ID]/" (Game ID values are under the Citra tutorial)
+* Safely eject your SD or microSD card
 * Put your SD or microSD card back in your 3DS
 * Hold SELECT while your 3DS is turning on and make sure that "Enable game patching" is ticked on, and if it isn't, turn it on
 * Press START to save your Luma options (this will reboot your 3DS)
