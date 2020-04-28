@@ -13,10 +13,16 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 ## Download
 
+### Mod:
+* [Release 2.1](https://drive.google.com/file/d/1uy2-OgKoOPfdts0PRMaMqdf9iU7bUNaM/view?usp=sharing)
 * [Release 2.0](https://drive.google.com/file/d/1B_mnWpfrl2J831f32hGsSP26IaWrq4-l/view?usp=sharing)
 * [Release 1.2](https://drive.google.com/file/d/1TyG2rwfhbEMerrUhgMCByNec1LrwfeLM/view?usp=sharing)
 * [Release 1.1](https://drive.google.com/file/d/11FN1cgMo2NtEYv0rVD5z8QHgpLUj0O26/view?usp=sharing)
 * [Release 1.0](https://drive.google.com/file/d/1VSKnkWkjp5AeVu32Uo0NifZke4WIUkoh/view?usp=sharing)
+
+### Album:
+#### (Contains both MP3 and FLAC files in separate folders...)
+* [Release 2.1](https://drive.google.com/file/d/1MK5LUyJeombPxMg492tvm-IjKJyINdU3/view?usp=sharing)
 
 ## How To Install
 
@@ -52,6 +58,10 @@ Note: As of 1.1, the mod is compatible with 3DS hardware via Luma LayeredFS and 
 Another Note: You can use FTPD or another SD tool to access your microSD card over the network, rather than having to take it out.
 
 ## Changelog
+
+### V2.1
+* Fixed certain looping points
+* ALBUM (MP3 + FLAC) RELEASE!!! (In the download section)
 
 ### V2.0
 * Adjusted the volume again
@@ -116,6 +126,6 @@ Another Note: You can use FTPD or another SD tool to access your microSD card ov
 
 ## Other Info
 
-I know this repo is a bit lackluster for the moment, but over time I will continue to add new information about the OST... stay tuned on my Discord server for updates!
+I will continue to add new information about the OST... stay tuned on my Discord server for updates!
 
-Also, please note that I tested these songs with the EUROPEAN version of MM3D, so if something happens to not work correctly on the USA version, PLEASE LET ME KNOW!
+Also, please note that I tested these songs with the EUROPEAN version of MM3D, so if something happens to not work correctly on the USA version, PLEASE LET ME KNOW! Even if you have any issues at all (like bad looping poings, clipping, etc.) don't be afraid to reach out to me, or start an issue on this GitHub page.
