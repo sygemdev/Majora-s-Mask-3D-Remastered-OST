@@ -14,6 +14,7 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 ## Download
 
 ### Mod:
+#### (For use on Majora's Mask 3D via CFW or Citra...)
 * [Release 2.1](https://drive.google.com/file/d/1uy2-OgKoOPfdts0PRMaMqdf9iU7bUNaM/view?usp=sharing)
 * [Release 2.0](https://drive.google.com/file/d/1B_mnWpfrl2J831f32hGsSP26IaWrq4-l/view?usp=sharing)
 * [Release 1.2](https://drive.google.com/file/d/1TyG2rwfhbEMerrUhgMCByNec1LrwfeLM/view?usp=sharing)
