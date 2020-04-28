@@ -13,6 +13,7 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 ## Download
 
+* [Release 2.0](https://drive.google.com/file/d/1B_mnWpfrl2J831f32hGsSP26IaWrq4-l/view?usp=sharing)
 * [Release 1.2](https://drive.google.com/file/d/1TyG2rwfhbEMerrUhgMCByNec1LrwfeLM/view?usp=sharing)
 * [Release 1.1](https://drive.google.com/file/d/11FN1cgMo2NtEYv0rVD5z8QHgpLUj0O26/view?usp=sharing)
 * [Release 1.0](https://drive.google.com/file/d/1VSKnkWkjp5AeVu32Uo0NifZke4WIUkoh/view?usp=sharing)
@@ -47,9 +48,22 @@ Luma LayeredFS (Safe):
 * Press START to save your Luma options (this will reboot your 3DS)
 * The next time you open the game, the soundtrack should be properly replaced
 
-Note: Shop music and Milk Bar music both crash real 3DS hardware. As of 1.1, the mod is compatible with 3DS hardware via Luma LayeredFS and custom ROMs.
+Note: As of 1.1, the mod is compatible with 3DS hardware via Luma LayeredFS and custom ROMs.
+Another Note: You can use FTPD or another SD tool to access your microSD card over the network, rather than having to take it out.
 
 ## Changelog
+
+### V2.0
+* Adjusted the volume again
+#### Songs added:
+* Deku Palace
+* Stone Tower Temple
+* Stone Tower Temple (Inverted)
+* Song of Healing
+* Zelda's Recollection
+* To The Moon
+* Zora Hall
+* Ghost Attack
 
 ### V1.2
 * Fixed volume for all of the songs, they should be more aligned with the volume of the original tracks
@@ -91,6 +105,14 @@ Note: Shop music and Milk Bar music both crash real 3DS hardware. As of 1.1, the
 * Mayor's Meeting
 * Opening Chest
 * Item Get
+* Deku Palace
+* Stone Tower Temple
+* Stone Tower Temple (Inverted)
+* Song of Healing
+* Zelda's Recollection
+* To The Moon
+* Zora Hall
+* Ghost Attack
 
 ## Other Info
 
