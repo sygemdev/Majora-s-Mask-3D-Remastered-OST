@@ -9,7 +9,7 @@ This is a remastered soundtrack for Majora's Mask 3D that is supposed to give th
 * Discord - [jambolicious](https://discord.gg/msKdhcP)
 * YouTube - [StarBender](https://www.youtube.com/channel/UCTa6CCwKiLuQVPoBy1q1z5Q)
 
-If you have any questions or concerns, I will gladly help out anyone in the MM3D REMASTER OST section on my Discord server linked above. If by chance I see a comment saying "Sounds awful i hate it," for example, I will happily ignore it; however, if you have genuine feedback, I will absolutely pay attention.
+If you have any questions or concerns, I will gladly help out anyone in the MM3D REMASTER OST section on my Discord server linked above. If you have genuine feedback, I will absolutely pay attention and try to make changes. However, keep in mind, it is impossible for me to please everyone, and I don't think this can ever match the original soundtrack.
 
 ## Download
 
