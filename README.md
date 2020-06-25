@@ -15,6 +15,7 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 
 ### Mod:
 #### (For use on Majora's Mask 3D via CFW or Citra...)
+* [Release 2.2](https://drive.google.com/file/d/1PQdk8G2Y7oCmsediFuadIOYFHSaxDPbB/view?usp=sharing)
 * [Release 2.1](https://drive.google.com/file/d/1uy2-OgKoOPfdts0PRMaMqdf9iU7bUNaM/view?usp=sharing)
 * [Release 2.0](https://drive.google.com/file/d/1B_mnWpfrl2J831f32hGsSP26IaWrq4-l/view?usp=sharing)
 * [Release 1.2](https://drive.google.com/file/d/1TyG2rwfhbEMerrUhgMCByNec1LrwfeLM/view?usp=sharing)
@@ -24,6 +25,8 @@ If you have any questions or concerns, I will gladly help out anyone in the MM3D
 ### Album:
 #### (Contains both MP3 and FLAC files in separate folders...)
 * [Release 2.1](https://drive.google.com/file/d/1MK5LUyJeombPxMg492tvm-IjKJyINdU3/view?usp=sharing)
+
+Note: The album releases of each version will be delayed by a certain amount of time after the mod release...
 
 ## How To Install
 
@@ -59,6 +62,18 @@ Note: As of 1.1, the mod is compatible with 3DS hardware via Luma LayeredFS and 
 Another Note: You can use FTPD or another SD tool to access your microSD card over the network, rather than having to take it out.
 
 ## Changelog
+
+### V2.2
+* Fixed Termina Field
+* Fixed Mask Salesman's Theme
+#### Songs added:
+* Get Heart Container
+* Get Mask
+* Get Small Item
+* Get Ocarina
+* Woodfall Temple
+* Great Bay Temple
+* Snowhead Temple
 
 ### V2.1
 * Fixed certain looping points
@@ -124,6 +139,13 @@ Another Note: You can use FTPD or another SD tool to access your microSD card ov
 * To The Moon
 * Zora Hall
 * Ghost Attack
+* Get Heart Container
+* Get Mask
+* Get Small Item
+* Get Ocarina
+* Woodfall Temple
+* Great Bay Temple
+* Snowhead Temple
 
 ## Other Info
 
