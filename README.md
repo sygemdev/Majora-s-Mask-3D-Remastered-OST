@@ -2,6 +2,8 @@
 
 ## Description
 
+### Note: This project is no longer being worked on. Apologies for any disappointment.
+
 This is a remastered soundtrack for Majora's Mask 3D that is supposed to give the OST a "Wind Waker HD treatment," where many of the samples, mixing, and effects have been revived. I used Audacity, Foobar2000, FL Studio, Looping Audio Converter, and various soundfonts and plugins that I will list at a later date.
 
 ## Links
